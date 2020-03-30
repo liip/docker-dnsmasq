@@ -1,0 +1,13 @@
+# Docker
+.dockerignore
+Dockerfile
+
+# Git
+**/.git/
+**/.gitattributes
+**/.gitignore
+**/.gitmodules
+
+# Text files
+**/*.md
+**/*.txt
